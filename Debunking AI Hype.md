@@ -1,4 +1,6 @@
-# Debunking AI Hype: Insights from a Computer Scientist [See the video](https://youtu.be/Nd7wrC62LEk?si=bwojnnq1ZWzqpblH)
+# Debunking AI Hype: Insights from a Computer Scientist
+
+[The Source](https://youtu.be/Nd7wrC62LEk?si=bwojnnq1ZWzqpblH)
 
 Artificial Intelligence (AI) has undoubtedly become a central topic in today’s world, sparking discussions ranging from technological advancements to existential threats. However, Dr. Emmanuel Jewelry, a seasoned software engineer, PhD holder in machine learning, and author of *Smart Until It's Dumb: Why Artificial Intelligence Keeps Making Epic Mistakes and Why the AI Bubble Will Burst*, argues that much of the current discourse surrounding AI is significantly overstated, if not outright misleading.
 
