@@ -1,5 +1,7 @@
 # The AI Bubble: A Software Engineer's Reality Check on Silicon Valley's Latest Gold Rush
 
+[The Source](https://youtu.be/Nd7wrC62LEk?si=bwojnnq1ZWzqpblH)
+
 ## The Three-Hour Work Year That Exposed Tech's Dirty Secret
 
 Dr. Emmanuel Jewellery didn't expect his confession to go viral. The software engineer with a PhD in machine learning had just admitted to working only three hours during his five-month tenure at a distinguished investment bank—while collecting a six-figure salary. But what shocked him more than his own idleness was the flood of emails from tech workers sharing eerily similar stories.
