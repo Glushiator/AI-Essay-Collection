@@ -1,6 +1,6 @@
 # The Theory That Shatters Language Itself: How Language Models Revolutionize Our Understanding of Meaning and Consciousness
 
-(The Source)[https://www.youtube.com/watch?v=A36OumnSrWY]
+[The Source](https://www.youtube.com/watch?v=A36OumnSrWY)
 
 ---
 
