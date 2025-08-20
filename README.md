@@ -16,4 +16,7 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 4. The Million Dollar Challenge
 - **`The Million Dollar Challenge: Why AI Can't Solve Simple Puzzles That Children Can by Claude Opus 4.1.md`** – A discussion of François Chollet's ARC benchmark and its role in highlighting the gap between human reasoning and current AI capabilities.
 
+### 5. Why the "Godfather of AI" Now Fears His Own Creation
+- **`Why The "Godfather of AI" Now Fears His Own Creation | Geoffrey Hinton by Opus Sonnet 4.md`** – A reflection on Geoffrey Hinton's warning about AI's rapid progress and the risks of misaligned systems.
+
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
