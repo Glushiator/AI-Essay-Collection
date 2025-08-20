@@ -19,4 +19,7 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 5. Why the "Godfather of AI" Now Fears His Own Creation
 - **`Why The "Godfather of AI" Now Fears His Own Creation | Geoffrey Hinton by Opus Sonnet 4.md`** – A reflection on Geoffrey Hinton's warning about AI's rapid progress and the risks of misaligned systems.
 
+### 6. AI Editor Prompt
+- **`AI EDITOR PROMPT.md`** – A structured prompt outlining guidelines for converting raw transcripts into polished, reference-ready articles.
+
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
