@@ -4,7 +4,7 @@ This repository contains essays that discuss recent debates in artificial intell
 
 ## Contents
 
-### 1. Debunking AI Hype
+### 1. (Debunking AI Hype)[https://github.com/Glushiator/stuff/blob/main/Debunking%20AI%20Hype%20by%20Claude%20Opus.md]
 - **`Debunking AI Hype by Claude Opus.md`** – An article summarizing Dr. Emmanuel Jewelry's critical view of the current AI landscape, emphasizing the industry disconnect between hype and reality.
 
 ### 2. The Theory That Shatters Language Itself
