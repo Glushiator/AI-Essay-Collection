@@ -1,6 +1,6 @@
 # The Era of Experience: David Silver on AI's Next Frontier Beyond Human Data
 
-(The Source)[https://www.youtube.com/watch?v=zzXyPGEtseI]
+[The Source](https://www.youtube.com/watch?v=zzXyPGEtseI)
 
 ## Introduction: A Bold Vision for AI's Future
 
