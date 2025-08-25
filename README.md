@@ -19,7 +19,14 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 5. Why the "Godfather of AI" Now Fears His Own Creation
 - **`Why The "Godfather of AI" Now Fears His Own Creation | Geoffrey Hinton by Opus Sonnet 4.md`** – A reflection on Geoffrey Hinton's warning about AI's rapid progress and the risks of misaligned systems.
 
-### 6. AI Editor Prompt
+### 6. The Era of Experience: David Silver on AI's Next Frontier Beyond Human Data
+- **`The Era of Experience: David Silver on AI's Next Frontier Beyond Human Data by Claude Opus 4.1.md`** – David Silver argues for moving beyond human data, calling for AI that learns through its own experience to uncover insights humans haven't yet discovered.
+
+### 7. AI Editor Prompt
 - **`AI EDITOR PROMPT.md`** – A structured prompt outlining guidelines for converting raw transcripts into polished, reference-ready articles.
 
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
+
+## Contributing
+
+Contributions that expand the collection or improve existing essays are welcome. If you have suggestions or new material to add, please open an issue or submit a pull request. Ensure all sources are properly credited.
