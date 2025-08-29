@@ -22,7 +22,10 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 6. [The Era of Experience: David Silver on AI's Next Frontier Beyond Human Data](https://github.com/Glushiator/stuff/blob/main/The%20Era%20of%20Experience%3A%20David%20Silver%20on%20AI%27s%20Next%20Frontier%20Beyond%20Human%20Data%20by%20Claude%20Opus%204.1.md)
 - **`The Era of Experience: David Silver on AI's Next Frontier Beyond Human Data by Claude Opus 4.1.md`** – David Silver argues for moving beyond human data, calling for AI that learns through its own experience to uncover insights humans haven't yet discovered.
 
-### 7. [AI Editor Prompt](https://github.com/Glushiator/stuff/blob/main/AI%20EDITOR%20PROMPT.md)
+### 7. [Human vs. Machine Consciousness: Murray Shanahan on AI, Buddhism, and the Nature of Self](https://github.com/Glushiator/stuff/blob/main/Human%20vs.%20Machine%20Consciousness%3A%20Murray%20Shanahan%20on%20AI%2C%20Buddhism%2C%20and%20the%20Nature%20of%20Self%20by%20Claude%20Opus%204.1.md)
+- **`Human vs. Machine Consciousness: Murray Shanahan on AI, Buddhism, and the Nature of Self by Claude Opus 4.1.md`** – Murray Shanahan explores machine consciousness, Buddhist philosophy, and what AI reveals about the self.
+
+### 8. [AI Editor Prompt](https://github.com/Glushiator/stuff/blob/main/AI%20EDITOR%20PROMPT.md)
 - **`AI EDITOR PROMPT.md`** – A structured prompt outlining guidelines for converting raw transcripts into polished, reference-ready articles.
 
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
