@@ -28,6 +28,9 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 8. [AI Editor Prompt](https://github.com/Glushiator/stuff/blob/main/AI%20EDITOR%20PROMPT.md)
 - **`AI EDITOR PROMPT.md`** – A structured prompt outlining guidelines for converting raw transcripts into polished, reference-ready articles.
 
+### 9. [How Physics Absorbed Artificial Intelligence and (Soon) Consciousness](https://github.com/Glushiator/stuff/blob/main/How%20Physics%20Absorbed%20Artificial%20Intelligence%20and%20%28Soon%29%20Consciousness%3A%20A%20Conversation%20with%20Max%20Tegmark%20by%20Claude%20Opus%204.1.md)
+- **`How Physics Absorbed Artificial Intelligence and (Soon) Consciousness: A Conversation with Max Tegmark by Claude Opus 4.1.md`** – Max Tegmark discusses physics' expanding scope to include AI and consciousness, highlighting energy landscapes, goal-oriented behavior, and optimism about human agency.
+
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
 
 ## Contributing
