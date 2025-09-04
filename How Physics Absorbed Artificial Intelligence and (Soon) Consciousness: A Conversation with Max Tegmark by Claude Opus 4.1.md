@@ -1,6 +1,6 @@
 # How Physics Absorbed Artificial Intelligence and (Soon) Consciousness: A Conversation with Max Tegmark
 
-(The Source)[https://www.youtube.com/watch?v=-gekVfUAS7c]
+[The Source](https://www.youtube.com/watch?v=-gekVfUAS7c)
 
 ## The Expanding Boundaries of Physics
 
