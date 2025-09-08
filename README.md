@@ -31,6 +31,9 @@ This repository contains essays that discuss recent debates in artificial intell
 ### 9. [How Physics Absorbed Artificial Intelligence and (Soon) Consciousness](https://github.com/Glushiator/stuff/blob/main/How%20Physics%20Absorbed%20Artificial%20Intelligence%20and%20%28Soon%29%20Consciousness%3A%20A%20Conversation%20with%20Max%20Tegmark%20by%20Claude%20Opus%204.1.md)
 - **`How Physics Absorbed Artificial Intelligence and (Soon) Consciousness: A Conversation with Max Tegmark by Claude Opus 4.1.md`** – Max Tegmark discusses physics' expanding scope to include AI and consciousness, highlighting energy landscapes, goal-oriented behavior, and optimism about human agency.
 
+### 10. [The Hidden Risk of AI](https://github.com/Glushiator/stuff/blob/main/The%20Hidden%20Risk%20of%20AI%3A%20How%20Technology%20Threatens%20Human%20Autonomy%20by%20Claude%20Opus%204.1.md)
+- **`The Hidden Risk of AI: How Technology Threatens Human Autonomy by Claude Opus 4.1.md`** – Brendan McCord argues that AI's true danger is eroding human autonomy as people outsource their choices to machines.
+
 All pieces link to their source material and represent interpretations rather than official transcripts. Feel free to read, learn, or adapt them for your own work.
 
 ## Contributing
